@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://saeed-halabi.netlify.app/](https://saeed-halabi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://saeed-halabi-portfolio.netlify.app/](https://saeed-halabi-portfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
