@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **saeedhalabi80@gmail.com**
+- 📫 How to reach me **saeedrhalabi@gmail.com**
 
 - ⚡ Fun fact **I enjoy sports**
 
