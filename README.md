@@ -12,8 +12,11 @@
 
 <p align="left">
   ✨ Coding since I was 21<br>
+    
   📚 I'm currently learning React.js and advanced frontend development<br>
+
   🎯 Goals: Master frontend development and contribute to impactful projects<br>
+
   🎲 Fun fact: I love playing sports, staying active outdoors, and play video games from time to time
 </p>
 
