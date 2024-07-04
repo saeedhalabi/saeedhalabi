@@ -1,5 +1,17 @@
 # 💫 About Me:
-👋 Hello there! I'm Saeed<br>🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 🖥️ Tech Explorer<br>🌟 Dedicated to crafting beautiful and user-friendly web experiences.<br>💻 Currently diving deep into React.js and mastering modern frontend frameworks.<br>🌐 Building awesome projects with HTML, CSS, JavaScript, and React.<br>📚 Lifelong learner, constantly exploring new tech and improving my skills.<br>⚡ Fun fact: I love playing Video Games🎮 and sports 🏀.
+👋 Hello there! I'm Saeed<br>🚀 
+
+Frontend Developer | 🎨 UI/UX Enthusiast | 🖥️ Tech Explorer<br>🌟 
+
+Dedicated to crafting beautiful and user-friendly web experiences.<br>💻 
+
+Currently diving deep into React.js and mastering modern frontend frameworks.<br>🌐 
+
+Building awesome projects with HTML, CSS, JavaScript, and React.<br>📚 
+
+Lifelong learner, constantly exploring new tech and improving my skills.<br>⚡ 
+
+Fun fact: I love playing Video Games🎮 and sports 🏀.
 
 
 ## 🌐 Socials:
