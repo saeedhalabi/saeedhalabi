@@ -1,19 +1,14 @@
-# 💫 About Me:
-👋 Hello there! I'm Saeed<br>🚀 
+#👋 Hello there! I'm Saeed  
 
-Frontend Developer | 🎨 UI/UX Enthusiast | 🖥️ Tech Explorer<br>🌟 
+- 🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 🖥️ Tech Explorer  
 
-Dedicated to crafting beautiful and user-friendly web experiences.<br>💻 
+- 🌟 Creating beautiful, user-friendly web experiences.  
+- 💻 Currently diving into **React.js** and modern frontend frameworks.  
+- 🌐 Building projects with **HTML**, **CSS**, **JavaScript**, and **React**.    
+- 📚 Lifelong learner, always exploring new tech.  
+- ⚡ Fun fact: I love playing Fortnite 🎮 and sports 🏀.
 
-Currently diving deep into React.js and mastering modern frontend frameworks.<br>🌐 
-
-Building awesome projects with HTML, CSS, JavaScript, and React.<br>📚 
-
-Lifelong learner, constantly exploring new tech and improving my skills.<br>⚡ 
-
-Fun fact: I love playing Video Games🎮 and sports 🏀.
-
-
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saedhalabi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-halabi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saeedhalabi_) 
 
