@@ -7,7 +7,7 @@
 - 💻 Currently diving into **React.js** and modern frontend frameworks.
 - 🌐 Building projects with **HTML**, **CSS**, **JavaScript**, and **React**.
 - 📚 Lifelong learner, always exploring new tech.
-- ⚡ Fun fact: I love playing Video Games 🎮 and sports 🏀.
+- ⚡ Fun fact: I love playing Video Games 🎮 and learning new things.
 
 
 ---
