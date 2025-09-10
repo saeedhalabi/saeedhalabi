@@ -23,4 +23,4 @@ I'm a **Frontend Developer** focused on building responsive, accessible, and eff
 
 ---
 
-*Open to collaboration and new opportunities
+*Open to collaboration and new opportunities*
