@@ -1,6 +1,6 @@
 # Hi, I'm Saeed Halabi 👋
 
-I'm a **Frontend Developer** focused on building responsive, accessible, and efficient web applications. I have experience with modern frontend frameworks and a working knowledge of backend technologies, enabling smooth collaboration across the stack.
+I'm a **Frontend Web Developer** focused on building responsive, accessible, and efficient web applications. I have experience with modern frontend frameworks and a working knowledge of backend technologies, enabling smooth collaboration across the stack.
 
 ## 🛠️ Skills
 
