@@ -11,9 +11,9 @@ I'm a **Frontend Developer** focused on building responsive, accessible, and eff
 
 ## 📂 Projects
 
-- [WebCanvas](https://canvas-web-saeed.netlify.app/) – Responsive web builder with live editing, previews, import, and export.
-- [Whisperly](https://whisperly-frontend.onrender.com/) – Real-time 1:1 chat app with secure authentication and seamless messaging.
-- [Manage Learning](https://saeedhalabi-tailwind-manage-learning.netlify.app/) – Responsive landing page showcasing modern UI design with Tailwind CSS.
+- [WebCanvas](https://canvas-web-saeed.netlify.app/) – Built a responsive web builder with live editing, previews, and import/export functionality. Implemented state management, component reusability, and responsive design.
+- [Whisperly](https://whisperly-frontend.onrender.com/) – Developed a real-time 1:1 chat application with secure authentication and seamless messaging using React and Node.js. Focused on clean architecture and smooth UX.
+- [Manage Learning](https://saeedhalabi-tailwind-manage-learning.netlify.app/) – Created a responsive landing page with Tailwind CSS, emphasizing modern UI design, accessibility, and cross-browser compatibility.
 
 ## 📫 Contact
 
