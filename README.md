@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Polyglot AI, an AI-powered app.<br>👯 I’m looking to collaborate on innovative AI or web projects that push creative boundaries.<br>🤝 I’m looking for help with scaling full-stack applications.<br>🌱 I’m currently learning AI, React, and full-stack development.<br>💬 Ask me about React, building AI apps, or creating smooth user experiences.<br>⚡ Fun fact I am learning and immersing myself in computer science.
+🔭 I’m currently learning Computer Science.<br>👯 I’m looking to collaborate on innovative AI or web projects that push creative boundaries.<br>🤝 I’m looking for help with scaling full-stack applications.<br>🌱 I’m currently learning AI, React, and full-stack development.<br>💬 Ask me about React, building AI apps, or creating smooth user experiences.<br>⚡ Fun fact I am learning and immersing myself in computer science.
 
 
 ## 🌐 Socials:
