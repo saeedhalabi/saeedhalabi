@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Computer Science.<br>👯 I’m looking to collaborate on innovative AI or web projects that push creative boundaries.<br>🤝 I’m looking for help with scaling full-stack applications.<br>🌱 Focused on deeper engineering concepts.<br>💬 Ask me about engineering concepts, frontend development, and building clean user interfaces.<br>⚡ Fun fact I enjoy playing video games and read tech books.
+🔭 I’m currently learning Computer Science.<br>👯 I’m looking to collaborate on innovative web projects that push creative boundaries.<br>🤝 I’m looking for help with scaling full-stack applications.<br>🌱 Focused on deeper engineering concepts.<br>💬 Ask me about engineering concepts, frontend development, and building clean user interfaces.<br>⚡ Fun fact I enjoy playing video games and read tech books.
 
 
 ## 🌐 Socials:
